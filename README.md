@@ -28,8 +28,18 @@ Drage kolegice in kolegi, čeprav je bila priprava tega seminarja zahteven proce
 
 P.S.: Prilagam tudi `.tex` file, če sem vam dopade oblikovanje in ga želite rekreirati.
 
+
 ## Contact
 
 Feel free to reach out if you have any questions or need further information.
 
 **Email**: dimitrije.pesic350@gmail.com
+
+## License
+
+The contents of the repository are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa] 
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
