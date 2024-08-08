@@ -24,7 +24,7 @@ I would like to extend my sincere gratitude to:
 
 ## Spodbuda za soštudente FMF
 
-Drage kolegice in kolegi, čeprav je bila priprava tega seminarja zahteven proces, sem želel z njim predvsem približati temo difuzijskih modelov v fiziki visokih energij. Tri neprespane dni (64 ur to be precise), ki sem jih preživel ob pisanju seminarja od začetka do konca (da se :) ), so mi omogočila globoko razumevanje tematike, ki bi jo rad delil z vami. Če imate kakršnakoli vprašanja ali potrebujete nasvet pri svojem raziskovalnem delu, me lahko kontaktirate na moj e-naslov dimitrije.pesic350@gmail.com. Srečno! Pa ne se bat, sem videl osupljive in tudi obupne seminarje, šanse so da vaš ni tako slab, samo napisati ga je treba.
+Drage kolegice in kolegi, čeprav je bila priprava tega seminarja zahteven proces, sem želel z njim predvsem približati temo difuzijskih modelov v fiziki visokih energij. Tri neprespane dni (64 ur to be precise), ki sem jih preživel ob pisanju seminarja od začetka do konca (da se :) ), so mi omogočila globoko razumevanje tematike, ki bi jo rad delil z vami. Če imate kakršnakoli vprašanja ali potrebujete nasvet pri svojem raziskovalnem delu, me lahko kontaktirate na moj e-naslov dimitrije.pesic350@gmail.com. Srečno! Pa ne se bat, sem videl osupljive in tudi obupne seminarje, šanse so da vaš ni tako slab, samo napisati ga je treba. Sam ne ga delat v `Wordu` ._.
 
 P.S.: Prilagam tudi `.tex` file, če sem vam dopade oblikovanje in ga želite rekreirati.
 
